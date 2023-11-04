@@ -27,14 +27,12 @@ LFS format: Petrov Ivan Ivanovich
 ## 3. [Physics](task_3.py)
 На какой-то там планете другие законы физики. Есть главная физическая константа: 
 > C = 12.554
-
 Программа запрашивает ```m```(массу) и ```h```(высоту). И считает силу и скорость по формулам:
 
 ![](static/formula_f.gif)
-
 ![](static/formula_v.gif)
 
-Exampels:
+Examples:
 ```commandline
 Pass m: 1
 Pass v: 2
