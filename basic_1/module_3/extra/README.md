@@ -23,3 +23,21 @@ FSL format: Ivan Ivanovich Petrov
 LFS format: Petrov Ivan Ivanovich
 ```
 > **__Note__**: Don't use commas in ```print```
+
+## 3. [Physics](task_3.py)
+На какой-то там планете другие законы физики. Есть главная физическая константа: 
+> C = 12.554
+
+Программа запрашивает ```m```(массу) и ```h```(высоту). И считает силу и скорость по формулам:
+
+![](static/formula_f.gif)
+
+![](static/formula_v.gif)
+
+Exampels:
+```commandline
+Pass m: 1
+Pass v: 2
+F = -0.14755791648221928
+v = 5.258218510216488e-12
+```
