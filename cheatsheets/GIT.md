@@ -22,3 +22,17 @@ git push
 git checkout -b new_branch_name
 ```
 
+## Загрузить изменения из удалённого репозитория
+```commandline
+git pull
+```
+
+## Сохранить локальные изменения чтобы не надо было мёрджить 
+```commandline
+git stash
+```
+
+## Вытащить локальные изменения, которые были засунуты в stash
+```commandline
+git stash pop
+```
