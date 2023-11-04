@@ -30,6 +30,7 @@ LFS format: Petrov Ivan Ivanovich
 Программа запрашивает ```m```(массу) и ```h```(высоту). И считает силу и скорость по формулам:
 
 ![](static/formula_f.gif)
+
 ![](static/formula_v.gif)
 
 Examples:
