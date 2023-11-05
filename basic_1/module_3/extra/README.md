@@ -34,7 +34,7 @@ LFS format: Petrov Ivan Ivanovich
 
 ![](static/formula_v.gif)
 
-Examples:
+**Examples**:
 ```commandline
 Pass m: 1
 Pass v: 2
