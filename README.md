@@ -14,7 +14,7 @@
             ├── task_1.py
             ...
             └── README.md
-├── docs
+├── cheatsheets
     ├── CHEATSHEET.md
     ...
     └── README.md
